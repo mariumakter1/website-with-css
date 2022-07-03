@@ -1,0 +1,80 @@
+.whole{
+    background-color: rgb(127, 249, 255);
+}
+.logo{
+    color: crimson;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    letter-spacing: normal;
+    font-weight: bold;
+}
+header ul li{
+    display: inline;
+
+}
+header {
+    width: 80%;
+    margin: 0 auto;
+}
+ul {
+    float: right;
+}
+li {
+    padding: 25px;
+    font-size: 25px;
+}
+.banner-caption {
+    width: 50%;
+    margin-left: 13%;
+    margin-top:10%;
+}
+h2 {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.spaces {
+    font-size: 20px;
+    letter-spacing: 7px;
+}
+span {
+    color: red;
+}
+.dev {
+    font-size: 35px;
+    margin: 0;
+}
+button {
+    height: 50px;
+    width: 120px;
+    border-radius: 50px;
+    font-size: 20px;
+    border: none;
+    margin-top: 3%;
+}
+img {
+    float: right;
+    height: 400px;
+}
+.banner-img {
+    width: 50%;
+    margin-left: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
